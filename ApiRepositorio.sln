@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRepositorio", "ApiRepositorio\ApiRepositorio.csproj", "{DFF5453E-2698-4B58-AFD9-B18822D6A9E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{8A610FAE-57B1-48E8-9917-B3DA05A932BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF5453E-2698-4B58-AFD9-B18822D6A9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF5453E-2698-4B58-AFD9-B18822D6A9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF5453E-2698-4B58-AFD9-B18822D6A9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF5453E-2698-4B58-AFD9-B18822D6A9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A610FAE-57B1-48E8-9917-B3DA05A932BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A610FAE-57B1-48E8-9917-B3DA05A932BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A610FAE-57B1-48E8-9917-B3DA05A932BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A610FAE-57B1-48E8-9917-B3DA05A932BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
