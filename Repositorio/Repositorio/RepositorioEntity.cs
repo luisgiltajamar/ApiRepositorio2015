@@ -15,7 +15,12 @@ namespace Repositorio.Repositorio
     {
         private DbContext context;
 
-        protected DbSet<TModelo> DbSet { get; set; }
+        protected DbSet<TModelo> DbSet {
+            get
+            {
+                return context.Set<TModelo>();
+            }
+        }
 
         public RepositorioEntity(DbContext context)
         {
